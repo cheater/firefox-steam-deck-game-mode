@@ -11,7 +11,7 @@ It will launch the whole KDE desktop and within this launch Firefox. The right c
 2. Download the script from [here](https://github.com/cheater/firefox-steam-deck-game-mode/raw/refs/heads/main/ff.sh) (Right click -> Save Link As...). Make sure to save the file with the `.sh` extension.
 3. Using the file browser, browse to the `ff.sh` file on your file system, right click it, and select "Properties"
 4. Go to the "Permissions" tab
-5. Check the "Is executable" box
+5. Check the "Is executable" box and press OK
 6. Open the desktop Steam client and add `ff.sh` as a non-steam game
 7. Reboot back to the game mode and launch the app
 
