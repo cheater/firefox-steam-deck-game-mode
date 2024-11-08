@@ -84,3 +84,29 @@ Set up a controller scheme. I use this one:
 - `X` - Show Keyboard
 
 Note: if you want to scroll faster, you can use the "Add extra command" function and add another Scroll Wheel Up or Down.
+
+
+# Enable the dark theme in Firefox
+
+In some configurations, Firefox refuses to use the dark theme even if your OS is set to dark.
+
+1. Launch Firefox and go to Settings
+2. In the lower left corner, click on "Extensions & Themes"
+3. On the left, click "Themes"
+4. Find the theme called "Dark" and enable it
+
+
+# Install useful Firefox addons
+
+- [600% Sound Volume](https://addons.mozilla.org/en-US/firefox/addon/600-sound-volume/)
+- [Augmented Steam](https://addons.mozilla.org/en-CA/firefox/addon/augmented-steam/)
+- [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)
+- [Copy All Tabs](https://addons.mozilla.org/en-US/firefox/addon/copy-all-tabs/)
+- [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
+- [DeArrow](https://addons.mozilla.org/en-US/firefox/addon/dearrow/)
+- [Enhancer for YouTube](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/)
+- [I don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies/)
+- [Popup Blocker (strict)](https://addons.mozilla.org/en-US/firefox/addon/popup-blocker/)
+- [SponsorBlock - Skip Sponsorships on YouTube](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)
+- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+- [Violentmonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
